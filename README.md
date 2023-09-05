@@ -25,7 +25,3 @@ Refer to the custom instructions before initiating interactions with compatible 
 ## Contributions
 
 Feel free to submit pull requests or issues to improve or extend these instructions.
-
-## License
-
-MIT License. See the `LICENSE` file for details.
